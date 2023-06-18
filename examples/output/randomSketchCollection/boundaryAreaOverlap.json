@@ -1,0 +1,346 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "67a755b7-3b0e-4844-87d6-271fad4315eb",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 704843797.066361,
+      "extra": {
+        "sketchName": "randomSketchCollection-4"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "67c0c230-bded-45ab-ac1e-d0e318738b89",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1257067269.1743023,
+      "extra": {
+        "sketchName": "randomSketchCollection-8"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "7a7bd8cb-f4d2-4714-9545-044264ba24aa",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 2033767041.7416713,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9383235c-db4e-4b11-9e3f-402ca97173bf",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-5"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "9478b501-43f8-48e8-925f-8368be9fc7e6",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-7"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "a1b0a8c6-974c-40b5-b92d-6a126ccc1375",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1192497015.7463484,
+      "extra": {
+        "sketchName": "randomSketchCollection-9"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "b4a1119e-cb16-4689-afa8-c262a3a9f153",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1716823431.5202627,
+      "extra": {
+        "sketchName": "randomSketchCollection-6"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "d0ba2007-d456-4318-803f-332476d26e1c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1324831800.9183457,
+      "extra": {
+        "sketchName": "randomSketchCollection-3"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "e01f691f-c550-4c05-a144-f273ab3fec4c",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "f9e27a47-2c08-49b1-b05f-56e3f1689899",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 3186224503.656125,
+      "extra": {
+        "sketchName": "randomSketchCollection-2"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "fc2369e2-6bf4-4b17-8c63-c20bb30f3e7d",
+      "classId": "eez",
+      "groupId": null,
+      "geographyId": null,
+      "value": 11416054859.823418,
+      "extra": {
+        "sketchName": "randomSketchCollection",
+        "isCollection": true
+      }
+    }
+  ],
+  "sketch": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7a7bd8cb-f4d2-4714-9545-044264ba24aa",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "9108ed20-2b03-4f37-9828-f775c85052ce",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-1"
+        },
+        "id": "7a7bd8cb-f4d2-4714-9545-044264ba24aa",
+        "bbox": [
+          135.8941633153363,
+          11.748291459369375,
+          136.48592162668552,
+          12.279876586337632
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "e01f691f-c550-4c05-a144-f273ab3fec4c",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "503c6c77-2e57-4da2-81f7-4ba05a3c29c3",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-1"
+        },
+        "id": "e01f691f-c550-4c05-a144-f273ab3fec4c",
+        "bbox": [
+          138.19353643973602,
+          -0.5161670858883642,
+          138.64814908575502,
+          -0.13448820593611108
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "f9e27a47-2c08-49b1-b05f-56e3f1689899",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "4e65dcd0-f517-4ca5-8f89-351d9944dbcf",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-2"
+        },
+        "id": "f9e27a47-2c08-49b1-b05f-56e3f1689899",
+        "bbox": [
+          142.2658630282018,
+          7.925164828721793,
+          143.02382548560556,
+          8.552115144714842
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "d0ba2007-d456-4318-803f-332476d26e1c",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "e42dacc1-bcb8-4db6-972d-fd60a89271ee",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-3"
+        },
+        "id": "d0ba2007-d456-4318-803f-332476d26e1c",
+        "bbox": [
+          149.26867430671737,
+          10.173055662345277,
+          149.86182348322185,
+          10.75669175507457
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "67a755b7-3b0e-4844-87d6-271fad4315eb",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "b28070c7-60a1-4848-addc-aada7cc6d9f9",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-4"
+        },
+        "id": "67a755b7-3b0e-4844-87d6-271fad4315eb",
+        "bbox": [
+          157.02473101986217,
+          7.504708507421976,
+          157.48585188725278,
+          7.868120137868971
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9383235c-db4e-4b11-9e3f-402ca97173bf",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "6c99f3ca-1a09-4489-a54b-8b1a0181b42e",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-5"
+        },
+        "id": "9383235c-db4e-4b11-9e3f-402ca97173bf",
+        "bbox": [
+          145.04865937559487,
+          2.613683241864833,
+          145.72696336188105,
+          3.2983405316653167
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "b4a1119e-cb16-4689-afa8-c262a3a9f153",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "6a9210b6-9286-4191-b2be-1567da69bb3f",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-6"
+        },
+        "id": "b4a1119e-cb16-4689-afa8-c262a3a9f153",
+        "bbox": [
+          155.21569331995244,
+          -1.0323140415978869,
+          155.72100105059116,
+          -0.3628313019690749
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9478b501-43f8-48e8-925f-8368be9fc7e6",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "35bf07b1-f080-424d-9756-a4afbf68b747",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-7"
+        },
+        "id": "9478b501-43f8-48e8-925f-8368be9fc7e6",
+        "bbox": [
+          147.94784977304764,
+          0.6820932187851789,
+          148.26464068798364,
+          1.5014174187440619
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "67c0c230-bded-45ab-ac1e-d0e318738b89",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "7ccee753-c5c1-4a33-951b-a10cf04e1c75",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-8"
+        },
+        "id": "67c0c230-bded-45ab-ac1e-d0e318738b89",
+        "bbox": [
+          147.95634382270438,
+          8.625082161545286,
+          148.58442176599473,
+          9.206427529302927
+        ],
+        "geometry": null
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "a1b0a8c6-974c-40b5-b92d-6a126ccc1375",
+          "isCollection": false,
+          "userAttributes": [],
+          "sketchClassId": "6a5f3cef-2691-43f7-b79a-e94d1955eb24",
+          "createdAt": "2023-06-16T22:48:12.152Z",
+          "updatedAt": "2023-06-16T22:48:12.152Z",
+          "name": "randomSketchCollection-9"
+        },
+        "id": "a1b0a8c6-974c-40b5-b92d-6a126ccc1375",
+        "bbox": [
+          158.23248008558502,
+          6.230115658178441,
+          158.86105761328824,
+          6.819506963938903
+        ],
+        "geometry": null
+      }
+    ],
+    "properties": {
+      "id": "fc2369e2-6bf4-4b17-8c63-c20bb30f3e7d",
+      "isCollection": true,
+      "userAttributes": [],
+      "sketchClassId": "99b8d5a6-09f6-45d2-9d07-246cc21a7261",
+      "createdAt": "2023-06-16T22:48:12.152Z",
+      "updatedAt": "2023-06-16T22:48:12.152Z",
+      "name": "randomSketchCollection"
+    },
+    "bbox": [
+      135.8941633153363,
+      -1.0323140415978869,
+      158.86105761328824,
+      12.279876586337632
+    ]
+  }
+}
